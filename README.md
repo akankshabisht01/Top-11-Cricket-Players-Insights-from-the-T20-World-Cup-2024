@@ -3,7 +3,7 @@
 ### Dashboard Link: (https://app.powerbi.com/reportEmbed?reportId=b2e4af6b-8628-47f3-b5f5-c96809147246&autoAuth=true&ctid=0d8f96a4-62c2-4e68-9449-66de88e46f86)
 
 ## Problem Statement
-
+ 
 This dashboard aims to analyze and identify the top 11 players of the T20 World Cup 2024 based on key performance metrics such as batting average, strike rate, wickets taken, economy rate, and fielding efficiency. By leveraging statistical analysis and visualization, the project provides an objective ranking, offering valuable insights for cricket enthusiasts, analysts, and decision-makers.
 
 Since selecting the best players is crucial for understanding team performances, this dashboard categorizes players based on their roles—openers, middle-order batsmen, finishers, all-rounders, and specialist bowlers. The interactive features allow users to explore detailed player stats, compare performances, and make data-driven selections.
