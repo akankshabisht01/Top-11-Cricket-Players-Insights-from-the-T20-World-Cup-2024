@@ -1,6 +1,6 @@
 # T20 World Cup 2024 - Top 11 Players Dashboard
 
-### Dashboard Link: [Insert Power BI Link Here]
+### Dashboard Link: (https://app.powerbi.com/reportEmbed?reportId=b2e4af6b-8628-47f3-b5f5-c96809147246&autoAuth=true&ctid=0d8f96a4-62c2-4e68-9449-66de88e46f86)
 
 ## Problem Statement
 
