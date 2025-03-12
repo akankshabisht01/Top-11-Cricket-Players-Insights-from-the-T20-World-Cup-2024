@@ -82,6 +82,7 @@ Total Runs = SUM('total run of the players'[Runs])
 
 ![Dashboard Screenshot]
 ![Image](https://github.com/user-attachments/assets/ab022a30-b70b-40a5-baa2-4f54a6c60e2d)
+![Image](https://github.com/user-attachments/assets/06c31901-3a93-4b62-b0e3-dbce5179f973)
 ![Image](https://github.com/user-attachments/assets/3051b74f-0efe-441d-838b-21247b1bb258)
 
 ## Publishing & Final Report
